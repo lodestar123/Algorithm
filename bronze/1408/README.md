@@ -1,5 +1,6 @@
 ## 1408 24
-링크: https://www.acmicpc.net/problem/1408
+---
+https://www.acmicpc.net/problem/1408
 ---
 시간을 계산해서 출력하는 문제이다. 삼항연산자를 활용해보았다. 
 
